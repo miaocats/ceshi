@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>姓名：zhang</h1>
+    <h2>项目经验：</h2>
+    <p>上海公司销售</p>
+    <img src="image/head.jpg"
+</body>
+</html>
